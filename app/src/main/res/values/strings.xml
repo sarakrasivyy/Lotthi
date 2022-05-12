@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Lotthi</string>
+    <string name="consul_ta">consultar</string>
+    <string name="crear_cupon">crear</string>
+</resources>
